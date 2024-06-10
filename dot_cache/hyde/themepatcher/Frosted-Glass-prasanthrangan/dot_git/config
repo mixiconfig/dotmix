@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/prasanthrangan/hyde-themes
+	fetch = +refs/heads/Frosted-Glass:refs/remotes/origin/Frosted-Glass
+[branch "Frosted-Glass"]
+	remote = origin
+	merge = refs/heads/Frosted-Glass

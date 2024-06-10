@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/prasanthrangan/hyde-themes
+	fetch = +refs/heads/Catppuccin-Mocha:refs/remotes/origin/Catppuccin-Mocha
+[branch "Catppuccin-Mocha"]
+	remote = origin
+	merge = refs/heads/Catppuccin-Mocha

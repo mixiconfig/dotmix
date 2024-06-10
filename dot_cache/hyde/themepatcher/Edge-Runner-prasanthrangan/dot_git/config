@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/prasanthrangan/hyde-themes
+	fetch = +refs/heads/Edge-Runner:refs/remotes/origin/Edge-Runner
+[branch "Edge-Runner"]
+	remote = origin
+	merge = refs/heads/Edge-Runner

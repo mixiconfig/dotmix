@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/prasanthrangan/hyde-themes
+	fetch = +refs/heads/Rose-Pine:refs/remotes/origin/Rose-Pine
+[branch "Rose-Pine"]
+	remote = origin
+	merge = refs/heads/Rose-Pine

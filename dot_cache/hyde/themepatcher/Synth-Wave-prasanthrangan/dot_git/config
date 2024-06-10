@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/prasanthrangan/hyde-themes
+	fetch = +refs/heads/Synth-Wave:refs/remotes/origin/Synth-Wave
+[branch "Synth-Wave"]
+	remote = origin
+	merge = refs/heads/Synth-Wave

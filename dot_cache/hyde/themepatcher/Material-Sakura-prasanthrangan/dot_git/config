@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/prasanthrangan/hyde-themes
+	fetch = +refs/heads/Material-Sakura:refs/remotes/origin/Material-Sakura
+[branch "Material-Sakura"]
+	remote = origin
+	merge = refs/heads/Material-Sakura

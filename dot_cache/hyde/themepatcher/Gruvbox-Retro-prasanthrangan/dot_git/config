@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/prasanthrangan/hyde-themes
+	fetch = +refs/heads/Gruvbox-Retro:refs/remotes/origin/Gruvbox-Retro
+[branch "Gruvbox-Retro"]
+	remote = origin
+	merge = refs/heads/Gruvbox-Retro

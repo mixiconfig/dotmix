@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/prasanthrangan/hyde-themes
+	fetch = +refs/heads/Nordic-Blue:refs/remotes/origin/Nordic-Blue
+[branch "Nordic-Blue"]
+	remote = origin
+	merge = refs/heads/Nordic-Blue
