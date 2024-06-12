@@ -1,2 +1,3 @@
 #!/bin/bash
-yay -S swww wlogout
+
+git clone https://aur.archlinux.org/paru.git

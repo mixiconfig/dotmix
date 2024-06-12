@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -r ./dot_config/sddm-theme/sddm-astronaut-theme/ /usr/share/sddm/themes/
+cp -r $HOME/.cofig/sddm-theme/sddm-astronaut-theme/ /usr/share/sddm/themes/
