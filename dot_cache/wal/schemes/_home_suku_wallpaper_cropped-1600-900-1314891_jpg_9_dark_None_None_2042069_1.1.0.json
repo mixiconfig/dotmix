@@ -1,0 +1,28 @@
+{
+    "checksum": "1a9567f1bd989e6e854cb6684fcfd66e",
+    "wallpaper": "/home/suku/wallpaper/cropped-1600-900-1314891.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#040605",
+        "foreground": "#c0c0c0",
+        "cursor": "#c0c0c0"
+    },
+    "colors": {
+        "color0": "#040605",
+        "color1": "#50748B",
+        "color2": "#2C949F",
+        "color3": "#5899A0",
+        "color4": "#3DC5C7",
+        "color5": "#5BD4E5",
+        "color6": "#96BBB3",
+        "color7": "#c0c0c0",
+        "color8": "#424443",
+        "color9": "#50748B",
+        "color10": "#2C949F",
+        "color11": "#5899A0",
+        "color12": "#3DC5C7",
+        "color13": "#5BD4E5",
+        "color14": "#96BBB3",
+        "color15": "#c0c0c0"
+    }
+}

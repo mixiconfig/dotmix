@@ -1,0 +1,28 @@
+{
+    "checksum": "541817e66c732f51655a73e49360f7bd",
+    "wallpaper": "/home/suku/wallpaper/tron_legacy5.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#bfbfbf",
+        "cursor": "#bfbfbf"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#1B334D",
+        "color2": "#25354E",
+        "color3": "#23486A",
+        "color4": "#5F4952",
+        "color5": "#983313",
+        "color6": "#B14419",
+        "color7": "#bfbfbf",
+        "color8": "#3f3f3f",
+        "color9": "#1B334D",
+        "color10": "#25354E",
+        "color11": "#23486A",
+        "color12": "#5F4952",
+        "color13": "#983313",
+        "color14": "#B14419",
+        "color15": "#bfbfbf"
+    }
+}

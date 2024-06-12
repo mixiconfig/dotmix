@@ -1,0 +1,28 @@
+{
+    "checksum": "5c40234c18a05ad6bee187f6458eec4d",
+    "wallpaper": "/home/suku/wallpaper/landscape.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#030201",
+        "foreground": "#c0bfbf",
+        "cursor": "#c0bfbf"
+    },
+    "colors": {
+        "color0": "#030201",
+        "color1": "#C57A26",
+        "color2": "#946F5C",
+        "color3": "#B28569",
+        "color4": "#DD9A71",
+        "color5": "#6D7F92",
+        "color6": "#748597",
+        "color7": "#c0bfbf",
+        "color8": "#424140",
+        "color9": "#C57A26",
+        "color10": "#946F5C",
+        "color11": "#B28569",
+        "color12": "#DD9A71",
+        "color13": "#6D7F92",
+        "color14": "#748597",
+        "color15": "#c0bfbf"
+    }
+}

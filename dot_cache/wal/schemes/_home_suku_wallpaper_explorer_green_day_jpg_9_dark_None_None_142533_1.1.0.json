@@ -1,0 +1,28 @@
+{
+    "checksum": "8661cfbfd5639414c8aa60292251f108",
+    "wallpaper": "/home/suku/wallpaper/explorer_green_day.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020507",
+        "foreground": "#bfc0c1",
+        "cursor": "#bfc0c1"
+    },
+    "colors": {
+        "color0": "#020507",
+        "color1": "#3F8D62",
+        "color2": "#54986D",
+        "color3": "#5CA174",
+        "color4": "#8FBA7A",
+        "color5": "#77B188",
+        "color6": "#A8CE88",
+        "color7": "#bfc0c1",
+        "color8": "#414345",
+        "color9": "#3F8D62",
+        "color10": "#54986D",
+        "color11": "#5CA174",
+        "color12": "#8FBA7A",
+        "color13": "#77B188",
+        "color14": "#A8CE88",
+        "color15": "#bfc0c1"
+    }
+}

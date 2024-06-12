@@ -1,0 +1,28 @@
+{
+    "checksum": "4321ee04f0af8b4a180e885251cc863c",
+    "wallpaper": "/home/suku/wallpaper/aesthetic_deer.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#030306",
+        "foreground": "#c0c0c0",
+        "cursor": "#c0c0c0"
+    },
+    "colors": {
+        "color0": "#030306",
+        "color1": "#55375F",
+        "color2": "#464568",
+        "color3": "#933A51",
+        "color4": "#AF3956",
+        "color5": "#D93A62",
+        "color6": "#824679",
+        "color7": "#c0c0c0",
+        "color8": "#424244",
+        "color9": "#55375F",
+        "color10": "#464568",
+        "color11": "#933A51",
+        "color12": "#AF3956",
+        "color13": "#D93A62",
+        "color14": "#824679",
+        "color15": "#c0c0c0"
+    }
+}

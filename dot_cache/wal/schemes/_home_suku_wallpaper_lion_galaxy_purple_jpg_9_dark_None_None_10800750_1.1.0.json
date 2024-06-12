@@ -1,0 +1,28 @@
+{
+    "checksum": "1ca66dfb0fc3d34d86fea3fc0c627b63",
+    "wallpaper": "/home/suku/wallpaper/lion_galaxy_purple.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020103",
+        "foreground": "#bfbfc0",
+        "cursor": "#bfbfc0"
+    },
+    "colors": {
+        "color0": "#020103",
+        "color1": "#87607A",
+        "color2": "#60388A",
+        "color3": "#6D5292",
+        "color4": "#9E6297",
+        "color5": "#B459B3",
+        "color6": "#7C82BF",
+        "color7": "#bfbfc0",
+        "color8": "#414042",
+        "color9": "#87607A",
+        "color10": "#60388A",
+        "color11": "#6D5292",
+        "color12": "#9E6297",
+        "color13": "#B459B3",
+        "color14": "#7C82BF",
+        "color15": "#bfbfc0"
+    }
+}

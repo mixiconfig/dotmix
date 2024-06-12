@@ -1,0 +1,28 @@
+{
+    "checksum": "9fa5fc6101c6faf98be1f5dd17dfad07",
+    "wallpaper": "/home/suku/wallpaper/neon_city.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0512",
+        "foreground": "#c2c0c3",
+        "cursor": "#c2c0c3"
+    },
+    "colors": {
+        "color0": "#0c0512",
+        "color1": "#9E3BB6",
+        "color2": "#9457AA",
+        "color3": "#9D60D8",
+        "color4": "#D867DC",
+        "color5": "#7291DD",
+        "color6": "#A7A4E2",
+        "color7": "#c2c0c3",
+        "color8": "#48434d",
+        "color9": "#9E3BB6",
+        "color10": "#9457AA",
+        "color11": "#9D60D8",
+        "color12": "#D867DC",
+        "color13": "#7291DD",
+        "color14": "#A7A4E2",
+        "color15": "#c2c0c3"
+    }
+}

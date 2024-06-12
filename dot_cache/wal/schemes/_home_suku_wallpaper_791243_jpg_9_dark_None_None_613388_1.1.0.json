@@ -1,0 +1,28 @@
+{
+    "checksum": "7f143e8bea9b4987f2340cd990716ca9",
+    "wallpaper": "/home/suku/wallpaper/791243.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#040304",
+        "foreground": "#c0c0c0",
+        "cursor": "#c0c0c0"
+    },
+    "colors": {
+        "color0": "#040304",
+        "color1": "#374A4C",
+        "color2": "#5A5D5D",
+        "color3": "#AD6A57",
+        "color4": "#608878",
+        "color5": "#C28D6B",
+        "color6": "#5A9587",
+        "color7": "#c0c0c0",
+        "color8": "#424242",
+        "color9": "#374A4C",
+        "color10": "#5A5D5D",
+        "color11": "#AD6A57",
+        "color12": "#608878",
+        "color13": "#C28D6B",
+        "color14": "#5A9587",
+        "color15": "#c0c0c0"
+    }
+}

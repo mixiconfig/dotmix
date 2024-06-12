@@ -1,0 +1,28 @@
+{
+    "checksum": "e49ab0df180820a9f116837073e05668",
+    "wallpaper": "/home/suku/wallpaper/blue_night_moon_over_lake.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000204",
+        "foreground": "#bfbfc0",
+        "cursor": "#bfbfc0"
+    },
+    "colors": {
+        "color0": "#000204",
+        "color1": "#26506F",
+        "color2": "#496773",
+        "color3": "#0F588A",
+        "color4": "#186DA7",
+        "color5": "#157DBF",
+        "color6": "#2597DB",
+        "color7": "#bfbfc0",
+        "color8": "#3f4142",
+        "color9": "#26506F",
+        "color10": "#496773",
+        "color11": "#0F588A",
+        "color12": "#186DA7",
+        "color13": "#157DBF",
+        "color14": "#2597DB",
+        "color15": "#bfbfc0"
+    }
+}

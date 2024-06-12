@@ -1,0 +1,28 @@
+{
+    "checksum": "fb4c0df9b25d6596ef4bc4ccffb984ba",
+    "wallpaper": "/home/suku/wallpaper/lake-sunrise.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#040406",
+        "foreground": "#c0c0c0",
+        "cursor": "#c0c0c0"
+    },
+    "colors": {
+        "color0": "#040406",
+        "color1": "#E06564",
+        "color2": "#F29271",
+        "color3": "#55618B",
+        "color4": "#B97390",
+        "color5": "#7783A9",
+        "color6": "#A68BB1",
+        "color7": "#c0c0c0",
+        "color8": "#424244",
+        "color9": "#E06564",
+        "color10": "#F29271",
+        "color11": "#55618B",
+        "color12": "#B97390",
+        "color13": "#7783A9",
+        "color14": "#A68BB1",
+        "color15": "#c0c0c0"
+    }
+}

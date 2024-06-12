@@ -1,0 +1,28 @@
+{
+    "checksum": "a715aac36ca126c7e6ddaa4e267fae4b",
+    "wallpaper": "/home/suku/wallpaper/mountain-winter-sun.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#050709",
+        "foreground": "#c0c1c1",
+        "cursor": "#c0c1c1"
+    },
+    "colors": {
+        "color0": "#050709",
+        "color1": "#97A8B2",
+        "color2": "#A7B0B7",
+        "color3": "#EEB2A5",
+        "color4": "#FCCAB8",
+        "color5": "#A5B9C4",
+        "color6": "#B5C6CE",
+        "color7": "#c0c1c1",
+        "color8": "#434546",
+        "color9": "#97A8B2",
+        "color10": "#A7B0B7",
+        "color11": "#EEB2A5",
+        "color12": "#FCCAB8",
+        "color13": "#A5B9C4",
+        "color14": "#B5C6CE",
+        "color15": "#c0c1c1"
+    }
+}

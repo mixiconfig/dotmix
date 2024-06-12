@@ -1,0 +1,28 @@
+{
+    "checksum": "47e16302b9cb50e4f878ddafb0a846bb",
+    "wallpaper": "/home/suku/wallpaper/adwaita-l.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020001",
+        "foreground": "#bfbfbf",
+        "cursor": "#bfbfbf"
+    },
+    "colors": {
+        "color0": "#020001",
+        "color1": "#3D426B",
+        "color2": "#4F446D",
+        "color3": "#942D31",
+        "color4": "#CA5C3E",
+        "color5": "#8F394B",
+        "color6": "#A4494F",
+        "color7": "#bfbfbf",
+        "color8": "#413f40",
+        "color9": "#3D426B",
+        "color10": "#4F446D",
+        "color11": "#942D31",
+        "color12": "#CA5C3E",
+        "color13": "#8F394B",
+        "color14": "#A4494F",
+        "color15": "#bfbfbf"
+    }
+}

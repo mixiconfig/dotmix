@@ -1,0 +1,28 @@
+{
+    "checksum": "27ffd37273d14922f3d042a41b24ead1",
+    "wallpaper": "/home/suku/wallpaper/mountain-sunrise.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#060c11",
+        "foreground": "#c0c2c3",
+        "cursor": "#c0c2c3"
+    },
+    "colors": {
+        "color0": "#060c11",
+        "color1": "#366786",
+        "color2": "#5D7388",
+        "color3": "#937886",
+        "color4": "#6C879B",
+        "color5": "#A5949B",
+        "color6": "#D9A99C",
+        "color7": "#c0c2c3",
+        "color8": "#44484c",
+        "color9": "#366786",
+        "color10": "#5D7388",
+        "color11": "#937886",
+        "color12": "#6C879B",
+        "color13": "#A5949B",
+        "color14": "#D9A99C",
+        "color15": "#c0c2c3"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "7baf432c878c0ce657f4e680dd282cb9",
+    "wallpaper": "/home/suku/wallpaper/comet.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0807",
+        "foreground": "#c1c1c1",
+        "cursor": "#c1c1c1"
+    },
+    "colors": {
+        "color0": "#0a0807",
+        "color1": "#A18968",
+        "color2": "#CC9764",
+        "color3": "#96998B",
+        "color4": "#ABAB99",
+        "color5": "#B7B6A4",
+        "color6": "#D4CCB2",
+        "color7": "#c1c1c1",
+        "color8": "#474545",
+        "color9": "#A18968",
+        "color10": "#CC9764",
+        "color11": "#96998B",
+        "color12": "#ABAB99",
+        "color13": "#B7B6A4",
+        "color14": "#D4CCB2",
+        "color15": "#c1c1c1"
+    }
+}

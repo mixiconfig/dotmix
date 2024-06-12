@@ -1,0 +1,28 @@
+{
+    "checksum": "aa7e30c43c74d30cceac860c92633a06",
+    "wallpaper": "/home/suku/wallpaper/apple-light.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020304",
+        "foreground": "#bfc0c0",
+        "cursor": "#bfc0c0"
+    },
+    "colors": {
+        "color0": "#020304",
+        "color1": "#5E535B",
+        "color2": "#A56046",
+        "color3": "#9A6C60",
+        "color4": "#B7866C",
+        "color5": "#D29674",
+        "color6": "#777285",
+        "color7": "#bfc0c0",
+        "color8": "#414242",
+        "color9": "#5E535B",
+        "color10": "#A56046",
+        "color11": "#9A6C60",
+        "color12": "#B7866C",
+        "color13": "#D29674",
+        "color14": "#777285",
+        "color15": "#bfc0c0"
+    }
+}

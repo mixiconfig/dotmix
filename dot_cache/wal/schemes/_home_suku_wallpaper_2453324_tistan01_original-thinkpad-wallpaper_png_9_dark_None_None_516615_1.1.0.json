@@ -1,0 +1,28 @@
+{
+    "checksum": "55ddf308b3e771cd3d0db9f563a9acab",
+    "wallpaper": "/home/suku/wallpaper/2453324_tistan01_original-thinkpad-wallpaper.png",
+    "alpha": "100",
+    "special": {
+        "background": "#030000",
+        "foreground": "#c0bfbf",
+        "cursor": "#c0bfbf"
+    },
+    "colors": {
+        "color0": "#030000",
+        "color1": "#AD0000",
+        "color2": "#B5201F",
+        "color3": "#D00000",
+        "color4": "#F30000",
+        "color5": "#E12726",
+        "color6": "#817E7E",
+        "color7": "#c0bfbf",
+        "color8": "#423f3f",
+        "color9": "#AD0000",
+        "color10": "#B5201F",
+        "color11": "#D00000",
+        "color12": "#F30000",
+        "color13": "#E12726",
+        "color14": "#817E7E",
+        "color15": "#c0bfbf"
+    }
+}

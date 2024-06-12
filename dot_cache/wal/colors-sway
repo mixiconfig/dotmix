@@ -1,0 +1,21 @@
+set $wallpaper /home/suku/wallpaper/city_bridge.jpg
+
+set $background #020406
+set $foreground #bfc0c0
+
+set $color0 #020406
+set $color1 #284F76
+set $color2 #525F61
+set $color3 #8A796B
+set $color4 #305988
+set $color5 #196497
+set $color6 #2961AB
+set $color7 #bfc0c0
+set $color8 #414244
+set $color9 #284F76
+set $color10 #525F61
+set $color11 #8A796B
+set $color12 #305988
+set $color13 #196497
+set $color14 #2961AB
+set $color15 #bfc0c0

@@ -1,0 +1,28 @@
+{
+    "checksum": "ec8a703de38784d4764f0ea1c38b9d72",
+    "wallpaper": "/home/suku/wallpaper/lake-moutain-tree-forest-scenery-4k-wallpaper-uhdpaper.com-897@0@i.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#070706",
+        "foreground": "#c1c1c0",
+        "cursor": "#c1c1c0"
+    },
+    "colors": {
+        "color0": "#070706",
+        "color1": "#B3915E",
+        "color2": "#3D6486",
+        "color3": "#55768D",
+        "color4": "#688EA1",
+        "color5": "#7DABC2",
+        "color6": "#A6ACAB",
+        "color7": "#c1c1c0",
+        "color8": "#454544",
+        "color9": "#B3915E",
+        "color10": "#3D6486",
+        "color11": "#55768D",
+        "color12": "#688EA1",
+        "color13": "#7DABC2",
+        "color14": "#A6ACAB",
+        "color15": "#c1c1c0"
+    }
+}

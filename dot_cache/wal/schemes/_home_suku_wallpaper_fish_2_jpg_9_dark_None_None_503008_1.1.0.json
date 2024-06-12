@@ -1,0 +1,28 @@
+{
+    "checksum": "52af9ef0b1871b58288fcc5f3566ba92",
+    "wallpaper": "/home/suku/wallpaper/fish_2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#bfbfbf",
+        "cursor": "#bfbfbf"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#97444B",
+        "color2": "#186593",
+        "color3": "#537390",
+        "color4": "#2C8DAA",
+        "color5": "#5D95AA",
+        "color6": "#4DAFD2",
+        "color7": "#bfbfbf",
+        "color8": "#3f3f3f",
+        "color9": "#97444B",
+        "color10": "#186593",
+        "color11": "#537390",
+        "color12": "#2C8DAA",
+        "color13": "#5D95AA",
+        "color14": "#4DAFD2",
+        "color15": "#bfbfbf"
+    }
+}

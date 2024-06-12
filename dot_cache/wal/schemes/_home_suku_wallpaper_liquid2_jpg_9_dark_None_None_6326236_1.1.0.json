@@ -1,0 +1,28 @@
+{
+    "checksum": "cd20c3305ad5cde780cbe9a8c79b25ae",
+    "wallpaper": "/home/suku/wallpaper/liquid2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000203",
+        "foreground": "#bfbfc0",
+        "cursor": "#bfbfc0"
+    },
+    "colors": {
+        "color0": "#000203",
+        "color1": "#9A2E05",
+        "color2": "#B14C1B",
+        "color3": "#E1611B",
+        "color4": "#6E8477",
+        "color5": "#FAAC48",
+        "color6": "#0B6F94",
+        "color7": "#bfbfc0",
+        "color8": "#3f4142",
+        "color9": "#9A2E05",
+        "color10": "#B14C1B",
+        "color11": "#E1611B",
+        "color12": "#6E8477",
+        "color13": "#FAAC48",
+        "color14": "#0B6F94",
+        "color15": "#bfbfc0"
+    }
+}

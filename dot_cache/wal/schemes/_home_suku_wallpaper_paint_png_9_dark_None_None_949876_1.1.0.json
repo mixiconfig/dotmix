@@ -1,0 +1,28 @@
+{
+    "checksum": "3b2182588887f445b9e321ffddebbe21",
+    "wallpaper": "/home/suku/wallpaper/paint.png",
+    "alpha": "100",
+    "special": {
+        "background": "#010102",
+        "foreground": "#bfbfbf",
+        "cursor": "#bfbfbf"
+    },
+    "colors": {
+        "color0": "#010102",
+        "color1": "#6D5590",
+        "color2": "#6D698D",
+        "color3": "#9B5A91",
+        "color4": "#AA419C",
+        "color5": "#917193",
+        "color6": "#7C828B",
+        "color7": "#bfbfbf",
+        "color8": "#404041",
+        "color9": "#6D5590",
+        "color10": "#6D698D",
+        "color11": "#9B5A91",
+        "color12": "#AA419C",
+        "color13": "#917193",
+        "color14": "#7C828B",
+        "color15": "#bfbfbf"
+    }
+}

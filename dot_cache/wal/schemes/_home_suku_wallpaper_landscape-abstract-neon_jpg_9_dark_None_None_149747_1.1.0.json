@@ -1,0 +1,28 @@
+{
+    "checksum": "164584b3d3e01820c82d59df5dbf40e1",
+    "wallpaper": "/home/suku/wallpaper/landscape-abstract-neon.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#030303",
+        "foreground": "#c0c0c0",
+        "cursor": "#c0c0c0"
+    },
+    "colors": {
+        "color0": "#030303",
+        "color1": "#61768F",
+        "color2": "#758A9B",
+        "color3": "#949EA3",
+        "color4": "#B2BCC4",
+        "color5": "#BCC2C6",
+        "color6": "#B7D4ED",
+        "color7": "#c0c0c0",
+        "color8": "#424242",
+        "color9": "#61768F",
+        "color10": "#758A9B",
+        "color11": "#949EA3",
+        "color12": "#B2BCC4",
+        "color13": "#BCC2C6",
+        "color14": "#B7D4ED",
+        "color15": "#c0c0c0"
+    }
+}

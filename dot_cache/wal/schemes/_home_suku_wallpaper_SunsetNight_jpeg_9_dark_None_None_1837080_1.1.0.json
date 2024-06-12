@@ -1,0 +1,28 @@
+{
+    "checksum": "54d0abb78635aec640a392fb336145a5",
+    "wallpaper": "/home/suku/wallpaper/SunsetNight.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#030407",
+        "foreground": "#c0c0c1",
+        "cursor": "#c0c0c1"
+    },
+    "colors": {
+        "color0": "#030407",
+        "color1": "#643860",
+        "color2": "#6C4565",
+        "color3": "#9B5270",
+        "color4": "#B24E6B",
+        "color5": "#6D478A",
+        "color6": "#CE658E",
+        "color7": "#c0c0c1",
+        "color8": "#424245",
+        "color9": "#643860",
+        "color10": "#6C4565",
+        "color11": "#9B5270",
+        "color12": "#B24E6B",
+        "color13": "#6D478A",
+        "color14": "#CE658E",
+        "color15": "#c0c0c1"
+    }
+}

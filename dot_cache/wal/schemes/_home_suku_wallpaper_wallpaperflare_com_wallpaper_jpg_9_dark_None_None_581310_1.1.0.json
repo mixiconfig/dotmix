@@ -1,0 +1,28 @@
+{
+    "checksum": "e2542b5c21f9f50bce597d7e9c0fbe66",
+    "wallpaper": "/home/suku/wallpaper/wallpaperflare.com_wallpaper.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#030405",
+        "foreground": "#c0c0c0",
+        "cursor": "#c0c0c0"
+    },
+    "colors": {
+        "color0": "#030405",
+        "color1": "#3A4455",
+        "color2": "#585266",
+        "color3": "#686D91",
+        "color4": "#5B7BB9",
+        "color5": "#7F72A0",
+        "color6": "#956F93",
+        "color7": "#c0c0c0",
+        "color8": "#424243",
+        "color9": "#3A4455",
+        "color10": "#585266",
+        "color11": "#686D91",
+        "color12": "#5B7BB9",
+        "color13": "#7F72A0",
+        "color14": "#956F93",
+        "color15": "#c0c0c0"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "a37519c35b68bb53ddb180487b9dd03e",
+    "wallpaper": "/home/suku/wallpaper/green_sea.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000202",
+        "foreground": "#bfbfbf",
+        "cursor": "#bfbfbf"
+    },
+    "colors": {
+        "color0": "#000202",
+        "color1": "#28504C",
+        "color2": "#1E6B61",
+        "color3": "#496F6F",
+        "color4": "#278E72",
+        "color5": "#427788",
+        "color6": "#4CBFA4",
+        "color7": "#bfbfbf",
+        "color8": "#3f4141",
+        "color9": "#28504C",
+        "color10": "#1E6B61",
+        "color11": "#496F6F",
+        "color12": "#278E72",
+        "color13": "#427788",
+        "color14": "#4CBFA4",
+        "color15": "#bfbfbf"
+    }
+}

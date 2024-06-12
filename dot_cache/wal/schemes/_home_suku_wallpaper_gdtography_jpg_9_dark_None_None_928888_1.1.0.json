@@ -1,0 +1,28 @@
+{
+    "checksum": "adc91222736438e4db1fd9d3c3090475",
+    "wallpaper": "/home/suku/wallpaper/gdtography.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#151515",
+        "foreground": "#c4c4c4",
+        "cursor": "#c4c4c4"
+    },
+    "colors": {
+        "color0": "#151515",
+        "color1": "#DADADA",
+        "color2": "#DEDEDE",
+        "color3": "#E1E1E1",
+        "color4": "#E5E5E5",
+        "color5": "#ECECEC",
+        "color6": "#F2F2F2",
+        "color7": "#c4c4c4",
+        "color8": "#4f4f4f",
+        "color9": "#DADADA",
+        "color10": "#DEDEDE",
+        "color11": "#E1E1E1",
+        "color12": "#E5E5E5",
+        "color13": "#ECECEC",
+        "color14": "#F2F2F2",
+        "color15": "#c4c4c4"
+    }
+}

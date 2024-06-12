@@ -1,0 +1,28 @@
+{
+    "checksum": "8eae4c44c376afd893beab9e4301d53f",
+    "wallpaper": "/home/suku/wallpaper/apple-dark.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000204",
+        "foreground": "#bfbfc0",
+        "cursor": "#bfbfc0"
+    },
+    "colors": {
+        "color0": "#000204",
+        "color1": "#27445D",
+        "color2": "#2C4C70",
+        "color3": "#465E6D",
+        "color4": "#386487",
+        "color5": "#47688A",
+        "color6": "#4C6E8F",
+        "color7": "#bfbfc0",
+        "color8": "#3f4142",
+        "color9": "#27445D",
+        "color10": "#2C4C70",
+        "color11": "#465E6D",
+        "color12": "#386487",
+        "color13": "#47688A",
+        "color14": "#4C6E8F",
+        "color15": "#bfbfc0"
+    }
+}

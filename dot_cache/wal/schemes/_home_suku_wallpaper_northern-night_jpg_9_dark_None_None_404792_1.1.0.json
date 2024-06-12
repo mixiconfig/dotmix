@@ -1,0 +1,28 @@
+{
+    "checksum": "e2c3ccaa353332a40bbf36d90cf95e50",
+    "wallpaper": "/home/suku/wallpaper/northern-night.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020202",
+        "foreground": "#bfbfbf",
+        "cursor": "#bfbfbf"
+    },
+    "colors": {
+        "color0": "#020202",
+        "color1": "#335569",
+        "color2": "#575D5D",
+        "color3": "#956C49",
+        "color4": "#B3966D",
+        "color5": "#6D8690",
+        "color6": "#AEA593",
+        "color7": "#bfbfbf",
+        "color8": "#414141",
+        "color9": "#335569",
+        "color10": "#575D5D",
+        "color11": "#956C49",
+        "color12": "#B3966D",
+        "color13": "#6D8690",
+        "color14": "#AEA593",
+        "color15": "#bfbfbf"
+    }
+}

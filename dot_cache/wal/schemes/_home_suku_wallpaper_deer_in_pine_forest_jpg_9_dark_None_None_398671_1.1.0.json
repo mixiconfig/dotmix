@@ -1,0 +1,28 @@
+{
+    "checksum": "2bc27611dbf81986aeb3161b8d04e4c8",
+    "wallpaper": "/home/suku/wallpaper/deer_in_pine_forest.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010006",
+        "foreground": "#bfbfc0",
+        "cursor": "#bfbfc0"
+    },
+    "colors": {
+        "color0": "#010006",
+        "color1": "#1168A3",
+        "color2": "#4C6597",
+        "color3": "#B36F99",
+        "color4": "#09ABDB",
+        "color5": "#35AED5",
+        "color6": "#62D6EF",
+        "color7": "#bfbfc0",
+        "color8": "#403f44",
+        "color9": "#1168A3",
+        "color10": "#4C6597",
+        "color11": "#B36F99",
+        "color12": "#09ABDB",
+        "color13": "#35AED5",
+        "color14": "#62D6EF",
+        "color15": "#bfbfc0"
+    }
+}

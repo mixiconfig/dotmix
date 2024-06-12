@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/suku/wallpaper/city_bridge.jpg"
+let background = "#020406"
+let foreground = "#bfc0c0"
+let cursor     = "#bfc0c0"
+
+" Colors
+let color0  = "#020406"
+let color1  = "#284F76"
+let color2  = "#525F61"
+let color3  = "#8A796B"
+let color4  = "#305988"
+let color5  = "#196497"
+let color6  = "#2961AB"
+let color7  = "#bfc0c0"
+let color8  = "#414244"
+let color9  = "#284F76"
+let color10 = "#525F61"
+let color11 = "#8A796B"
+let color12 = "#305988"
+let color13 = "#196497"
+let color14 = "#2961AB"
+let color15 = "#bfc0c0"

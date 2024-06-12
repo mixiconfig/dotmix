@@ -1,0 +1,28 @@
+{
+    "checksum": "66905655a6c8c138a21d047a399f3afe",
+    "wallpaper": "/home/suku/wallpaper/rocky_land.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020103",
+        "foreground": "#bfbfc0",
+        "cursor": "#bfbfc0"
+    },
+    "colors": {
+        "color0": "#020103",
+        "color1": "#FBBA52",
+        "color2": "#4B3E81",
+        "color3": "#705E91",
+        "color4": "#9575A6",
+        "color5": "#CB7B96",
+        "color6": "#AB8EAC",
+        "color7": "#bfbfc0",
+        "color8": "#414042",
+        "color9": "#FBBA52",
+        "color10": "#4B3E81",
+        "color11": "#705E91",
+        "color12": "#9575A6",
+        "color13": "#CB7B96",
+        "color14": "#AB8EAC",
+        "color15": "#bfbfc0"
+    }
+}

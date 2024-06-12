@@ -1,0 +1,28 @@
+{
+    "checksum": "443aaf94bbbe7fc512daee45f5698083",
+    "wallpaper": "/home/suku/wallpaper/calder-moore-aliencrack-01-copy.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#040203",
+        "foreground": "#c0bfc0",
+        "cursor": "#c0bfc0"
+    },
+    "colors": {
+        "color0": "#040203",
+        "color1": "#514A35",
+        "color2": "#695437",
+        "color3": "#6B6049",
+        "color4": "#914238",
+        "color5": "#719B55",
+        "color6": "#66D059",
+        "color7": "#c0bfc0",
+        "color8": "#424142",
+        "color9": "#514A35",
+        "color10": "#695437",
+        "color11": "#6B6049",
+        "color12": "#914238",
+        "color13": "#719B55",
+        "color14": "#66D059",
+        "color15": "#c0bfc0"
+    }
+}

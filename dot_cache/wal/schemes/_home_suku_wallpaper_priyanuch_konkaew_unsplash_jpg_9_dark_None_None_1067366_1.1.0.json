@@ -1,0 +1,28 @@
+{
+    "checksum": "f8cf81c3962b2ec8c9970bdc8265837c",
+    "wallpaper": "/home/suku/wallpaper/priyanuch_konkaew_unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020305",
+        "foreground": "#bfc0c0",
+        "cursor": "#bfc0c0"
+    },
+    "colors": {
+        "color0": "#020305",
+        "color1": "#0F325B",
+        "color2": "#5A2E4A",
+        "color3": "#084B6F",
+        "color4": "#6B5156",
+        "color5": "#A13E45",
+        "color6": "#0B658F",
+        "color7": "#bfc0c0",
+        "color8": "#414243",
+        "color9": "#0F325B",
+        "color10": "#5A2E4A",
+        "color11": "#084B6F",
+        "color12": "#6B5156",
+        "color13": "#A13E45",
+        "color14": "#0B658F",
+        "color15": "#bfc0c0"
+    }
+}

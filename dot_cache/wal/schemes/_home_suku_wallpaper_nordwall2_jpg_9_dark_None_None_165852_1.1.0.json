@@ -1,0 +1,28 @@
+{
+    "checksum": "63db720acbe62dde3c26063826b6cbee",
+    "wallpaper": "/home/suku/wallpaper/nordwall2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#080a0c",
+        "foreground": "#c1c1c2",
+        "cursor": "#c1c1c2"
+    },
+    "colors": {
+        "color0": "#080a0c",
+        "color1": "#A99778",
+        "color2": "#D08870",
+        "color3": "#5A7598",
+        "color4": "#90768E",
+        "color5": "#6486AD",
+        "color6": "#7DA2C2",
+        "color7": "#c1c1c2",
+        "color8": "#454748",
+        "color9": "#A99778",
+        "color10": "#D08870",
+        "color11": "#5A7598",
+        "color12": "#90768E",
+        "color13": "#6486AD",
+        "color14": "#7DA2C2",
+        "color15": "#c1c1c2"
+    }
+}

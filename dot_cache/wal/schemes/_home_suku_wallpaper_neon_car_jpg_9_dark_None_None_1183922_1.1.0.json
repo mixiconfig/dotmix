@@ -1,0 +1,28 @@
+{
+    "checksum": "a5d74cec5cf22d2cf74682fa2b0b7bee",
+    "wallpaper": "/home/suku/wallpaper/neon_car.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#02010f",
+        "foreground": "#bfbfc3",
+        "cursor": "#bfbfc3"
+    },
+    "colors": {
+        "color0": "#02010f",
+        "color1": "#535AB1",
+        "color2": "#6450AF",
+        "color3": "#A94CBD",
+        "color4": "#9E68CA",
+        "color5": "#7587C3",
+        "color6": "#8F8BCA",
+        "color7": "#bfbfc3",
+        "color8": "#41404b",
+        "color9": "#535AB1",
+        "color10": "#6450AF",
+        "color11": "#A94CBD",
+        "color12": "#9E68CA",
+        "color13": "#7587C3",
+        "color14": "#8F8BCA",
+        "color15": "#bfbfc3"
+    }
+}

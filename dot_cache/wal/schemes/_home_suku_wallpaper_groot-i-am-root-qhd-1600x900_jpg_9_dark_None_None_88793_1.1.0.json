@@ -1,0 +1,28 @@
+{
+    "checksum": "1a201a0d2e07592251e55d7d580673bc",
+    "wallpaper": "/home/suku/wallpaper/groot-i-am-root-qhd-1600x900.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#040607",
+        "foreground": "#c0c0c1",
+        "cursor": "#c0c0c1"
+    },
+    "colors": {
+        "color0": "#040607",
+        "color1": "#94744C",
+        "color2": "#66974B",
+        "color3": "#A29066",
+        "color4": "#AABC62",
+        "color5": "#A3A19C",
+        "color6": "#CBCBAB",
+        "color7": "#c0c0c1",
+        "color8": "#424445",
+        "color9": "#94744C",
+        "color10": "#66974B",
+        "color11": "#A29066",
+        "color12": "#AABC62",
+        "color13": "#A3A19C",
+        "color14": "#CBCBAB",
+        "color15": "#c0c0c1"
+    }
+}

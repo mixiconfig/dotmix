@@ -1,0 +1,28 @@
+{
+    "checksum": "7385eb85eb34e8bdd85351e88e3e7b08",
+    "wallpaper": "/home/suku/wallpaper/explorer_orange_sunset.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#060206",
+        "foreground": "#c0bfc0",
+        "cursor": "#c0bfc0"
+    },
+    "colors": {
+        "color0": "#060206",
+        "color1": "#A8584D",
+        "color2": "#F58B33",
+        "color3": "#FEA433",
+        "color4": "#ECA361",
+        "color5": "#FFD5A3",
+        "color6": "#FFD8A6",
+        "color7": "#c0bfc0",
+        "color8": "#444144",
+        "color9": "#A8584D",
+        "color10": "#F58B33",
+        "color11": "#FEA433",
+        "color12": "#ECA361",
+        "color13": "#FFD5A3",
+        "color14": "#FFD8A6",
+        "color15": "#c0bfc0"
+    }
+}
