@@ -1,4 +1,3 @@
 #!/bin/bash
 
-cd $HOME/paru
-makepkg -si
+paru -S swww wlogout floorp grimblast

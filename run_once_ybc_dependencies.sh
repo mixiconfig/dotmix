@@ -1,3 +1,4 @@
 #!/bin/bash
 
-paru -S wlogout swww grimblast
+cd $HOME/paru
+makepkg -si
