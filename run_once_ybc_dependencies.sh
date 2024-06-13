@@ -1,3 +1,3 @@
 #!/bin/bash
 
-paru -S wlogout swww
+paru -S wlogout swww grimblast
