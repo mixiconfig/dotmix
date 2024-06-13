@@ -1,3 +1,3 @@
 #!/bin/bash
 
-git clone https://aur.archlinux.org/paru.git
+git clone https://aur.archlinux.org/paru.git ~/paru
