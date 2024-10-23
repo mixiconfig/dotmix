@@ -1,0 +1,210 @@
+{
+   "layer": "top", // Waybar at top layer
+    // "position": "bottom", // Waybar position (top|bottom|left|right)
+    "height": 10, // Waybar height (to be removed for auto height)
+    "width": 1600, // Waybar width
+    "spacing": 4, // Gaps between modules (4px)
+    // Choose the order of the modules
+    "modules-left": ["hyprland/workspaces", "hyprland/window", "wlr/taskbar"],
+    "modules-center": ["mpris", "network", "custom/updater"],
+    "modules-right": ["custom/swaync", "custom/menu", "tray", "pulseaudio","temperature","cpu", "memory", "backlight", "battery", "battery#bat2", "clock", "custom/powermenu"],
+    // Modules configuration
+    
+    "custom/powermenu": {
+	"format": " ",
+	"on-click": "~/.local/share/bin/logoutlaunch.sh",
+	"tooltip": false,
+    },
+    "custom/swaync": {
+	"format": " ",
+	"on-click": "swaync-client -t",
+    "on-click-right": "swaync-client -t",
+    "on-click-middle": "~/.config/hypr/swaync/scripts/notify_count.sh",
+	"tooltip": false,
+    },
+  
+ "network": {
+    "interval": 1,
+    "format": "{ifname}",
+    "format-wifi": "{icon}  {bandwidthUpBytes}  {bandwidthDownBytes}",
+    "format-ethernet": "󰌘   {bandwidthUpBytes}  {bandwidthDownBytes}",
+    "format-disconnected": "󰌙", 
+    "tooltip-format": "{ipaddr}",
+    "format-linked": "󰈁 {ifname} (No IP)",
+    "tooltip-format-wifi": "{essid} {icon} {signalStrength}%",
+    "tooltip-format-ethernet": "{ifname} 󰌘",
+    "tooltip-format-disconnected": "󰌙 Disconnected",
+    "max-length": 50,
+    "format-icons": ["󰤯","󰤟","󰤢","󰤥","󰤨"],
+    "on click": "ags -t networkmenu"
+  },
+
+ "custom/updater":{
+    "format": " {}",
+    "exec": "yay -Qu | wc -l",
+    "exec-if": "[[ $(yay -Qu | wc -l) ]]",
+    "interval": 15,
+    "on-click": "kitty yay -Syu --needed archlinux-keyring && sudo pacman -Syu && notify-send 'The system has been updated'",
+  },
+
+    "wlr/workspaces": {
+      "on-click": "activate",
+    },
+    "keyboard-state": {
+        "numlock": true,
+        "capslock": true,
+        "format": "{name} {icon}",
+        "format-icons": {
+            "locked": "",
+            "unlocked": ""
+        }
+    },
+    "sway/mode": {
+        "format": "<span style=\"italic\">{}</span>"
+    },
+    "sway/scratchpad": {
+        "format": "{icon} {count}",
+        "show-empty": false,
+        "format-icons": ["", ""],
+        "tooltip": true,
+        "tooltip-format": "{app}: {title}"
+    },
+
+"mpris": {
+ "format": "{player_icon} {dynamic}",
+ "format-paused": "<span color='grey'>{status_icon} {dynamic}</span>",
+ "max-length": 30,
+ "player-icons": {
+ "default": "⏸",
+ "mpv": "🎵"
+  }
+},
+
+"status-icons": {
+		"paused": "▶" 
+	},
+
+ "idle_inhibitor": {
+        "format": "{icon}",
+        "format-icons": {
+            "activated": "",
+            "deactivated": ""
+        }
+    },
+    "tray": {
+        // "icon-size": 21,
+        "spacing": 10
+    },
+    "clock": {
+        "tooltip-format": "{:%H:%M}",
+        "tooltip": true,
+        "format-alt": "{:%A, %B %d, %Y}",
+	    "format": "{:%I:%M %p}"
+    },
+    "custom/scripted_clock": {
+        "type": "custom",
+        "return-type": "json",
+        "format": "{}",
+        "tooltip": true,
+        "interval": 10,
+        "on-click": "$HOME/.config/waybar/style/Oglo/clock_json.sh click-left",
+        "on-click-right": "$HOME/.config/waybar/style/Oglo/clock_json.sh click-right",
+        "on-click-middle": "$HOME/.config/waybar/style/Oglo/clock_json.sh click-middle",
+        "exec": "$HOME/.config/hypr/waybar/style/Oglo/clock_json.sh"
+    },
+
+ "temperature": {
+    "interval": 10,
+    "tooltip": false,
+    "hwmon-path": ["/sys/class/hwmon/hwmon1/temp1_input", "/sys/class/thermal/thermal_zone0/temp"],
+    //"thermal-zone": 0,
+    "critical-threshold": 82,
+    "format-critical": " {icon}{temperatureC}°C",
+    "format": "{icon} {temperatureC}°C",
+    "format-icons": ["󰈸"],
+    "on-click-right": "foot --title nvtop sh -c 'nvtop'"
+  },
+  
+    "cpu": {
+        "format": "{usage}% ",
+        "interval": 1,
+        "tooltip": false,
+        "on-click": "kitty sh -c 'btop'"
+
+    },
+    "memory": {
+        "format": "{used:0.1f}G ",
+        "on-click": "kitty sh -c 'btop'"
+    },
+    "temperature": {
+        // "thermal-zone": 2,
+        // "hwmon-path": "/sys/class/hwmon/hwmon2/temp1_input",
+        "critical-threshold": 80,
+        // "format-critical": "{temperatureC}°C {icon}",
+        "format": "{temperatureC}°C {icon}",
+        "format-icons": ["", "", ""]
+    },
+    "backlight": {
+        // "device": "acpi_video1",
+        "format": "{percent}% {icon}",
+        "format-icons": ["", "", "", "", "", "", "", "", ""],
+        "tooltip-format": "Left click to save brightness.",
+	    "on-click": "~/.config/hypr/waybar/scripts/save_brightness.sh",
+	    "on-click-right": "~/.config/waybar/style/Oglo/scripts/load_brightness.sh",
+    },
+    "battery": {
+        "states": {
+            // "good": 95,
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{capacity}% {icon}",
+        "format-charging": "{capacity}%  ",
+        "format-plugged": "{capacity}%  ",
+        "format-alt": "{time} {icon}",
+        // "format-good": "", // An empty format will hide the module
+        // "format-full": "",
+        "format-icons": [" ", " ", " ", " ", " "],
+        "on-click": "ags -t powerdropdownmenu"
+    },
+    "battery#bat2": {
+        "bat": "BAT2"
+    },
+
+    "pulseaudio": {
+        // "scroll-step": 1, // %, can be a float
+        "format": "{volume}% {icon} {format_source}",
+        "format-bluetooth": "{volume}% {icon} {format_source}",
+        "format-bluetooth-muted": " {icon} {format_source}",
+        "format-muted": " {format_source}",
+        "format-source": "{volume}% ",
+        "format-source-muted": "",
+        "format-icons": {
+            "headphone": "",
+            "hands-free": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": ["", "", ""]
+        },
+        "on-click": "pavucontrol"
+    },
+    "custom/media": {
+        "format": "{icon} {}",
+        "return-type": "json",
+        "max-length": 40,
+        "format-icons": {
+            "spotify": "",
+            "default": "🎜"
+        },
+        "escape": true,
+        "exec": "$HOME/.config/waybar/mediaplayer.py 2> /dev/null" // Script in resources folder
+        // "exec": "$HOME/.config/waybar/mediaplayer.py --player spotify 2> /dev/null" // Filter player based on name
+    },
+
+  "wlr/taskbar": {
+      "on-click": "activate"
+    },
+}
+
