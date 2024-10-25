@@ -1,3 +1,2 @@
-#!/bin/bash
-
-git clone https://aur.archlinux.org/paru.git ~/paru
+#!/bin/bash 
+yay -S wlogout brave-bin 
