@@ -1,2 +1,2 @@
 #!/bin/bash 
-yay -S wlogout brave-bin 
+yay -S wlogout brave-bin hyprland-git sddm-git
