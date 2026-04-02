@@ -78,7 +78,7 @@ transition_type="grow"
 # transition_type="random"
 
 wallpaper_engine=$(cat $HOME/.config/rofi/wallpaper-engine.sh)
-if [ "$wallpaper_engine" == "swww" ]; then
+if [ "$wallpaper_engine" == "awww" ]; then
   # swww
   echo ":: Using swww"
 
