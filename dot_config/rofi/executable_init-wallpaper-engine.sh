@@ -1,6 +1,8 @@
-#!/bin/bash wallpaper_engine=$(cat $HOME/.config/rofi/wallpaper-engine.sh) if [ "$wallpaper_engine" == "awww" ]; then
+#!/bin/bash
+wallpaper_engine=$(cat $HOME/.config/rofi/wallpaper-engine.sh)
+if [ "$wallpaper_engine" == "awww" ]; then
   # swww
-  echo ":: Using swww"
+  echo ":: Using awww"
   awww init
   awww-daemon --format xrgb
   sleep 0.5
