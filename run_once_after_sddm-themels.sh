@@ -1,6 +1,7 @@
 #!/bin/bash
 
 sudo cp -r $HOME/.config/sddm-theme/sddm-astronaut-theme/ /usr/share/sddm/themes/
-sudo cp $HOME/.config/hyde/themes/Tokyo\ Night/wallpapers/mafu_trad_wall.png /usr/share/sddm/themes/sddm-astronaut-theme 
-sudo nvim /usr/share/sddm/themes/sddm-astronaut-theme/theme.conf
-sudo nvim /usr/lib/sddm/sddm.conf.d/default.conf
+sudo cp $HOME/.config/hyde/themes/Tokyo\ Night/wallpapers/mafu_trad_wall.png /usr/share/sddm/themes/sddm-astronaut-theme
+sudo cp $HOME/.config/sddm-theme/default.conf /usr/lib/sddm/sddm.conf.d/default.conf
+#sudo nvim /usr/share/sddm/themes/sddm-astronaut-theme/theme.conf
+#sudo nvim /usr/lib/sddm/sddm.conf.d/default.conf
