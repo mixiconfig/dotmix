@@ -1,5 +1,5 @@
 #!/bin/bash
-yay -S hyprland waybar rofi dunst kitty gtk2 gtk3 nwg-look neovim thunar zsh sddm parallel hyprlock notification-daemon swaync ttf-jetbrains-mono ttf-jetbrains-mono-nerd pavucontrol pamixer brightnessctl git base-devel fastfetch exa
-inxi qt5-graphicaleffects qt6-5compat jq imagemagick swayidle
+yay -S hyprland waybar rofi dunst kitty gtk2 gtk3 nwg-look neovim thunar zsh parallel hyprlock notification-daemon swaync ttf-jetbrains-mono ttf-jetbrains-mono-nerd pavucontrol pamixer brightnessctl git base-devel fastfetch exa
+inxi qt5-graphicaleffects qt6-5compat jq imagemagick swayidle sddm-git
 
-yay -S hyprland waybar rofi dunst kitty gtk2 gtk3 nwg-look neovim thunar zsh sddm parallel hyprlock notification-daemon swaync ttf-jetbrains-mono ttf-jetbrains-mono-nerd pavucontrol pamixer brightnessctl git base-devel fastfetch exa inxi qt5-graphicaleffects qt6-5compat
+yay -S hyprland waybar rofi dunst kitty gtk2 gtk3 nwg-look neovim thunar zsh parallel hyprlock notification-daemon swaync ttf-jetbrains-mono ttf-jetbrains-mono-nerd pavucontrol pamixer brightnessctl git base-devel fastfetch exa inxi qt5-graphicaleffects qt6-5compat sddm-git
